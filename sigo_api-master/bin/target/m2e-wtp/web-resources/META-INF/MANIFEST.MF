@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sigo_api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Luciano Medeiros
+Implementation-Vendor-Id: com.cagepa
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sigo_api
+Created-By: Maven Integration for Eclipse
+
